@@ -1,0 +1,48 @@
+# Core ML stack (no TensorFlow)
+numpy
+pandas
+scipy
+joblib
+
+# Visualizations
+matplotlib
+seaborn
+
+# Config
+pyyaml
+python-box==6.0.2
+types-PyYAML
+
+# Utilities
+tqdm
+ensure==1.0.2
+gdown
+
+# MLflow
+mlflow==2.2.2
+
+# DVC
+dvc
+
+# Web Deployment
+Flask
+Flask-Cors
+
+# AWS Deployment
+boto3
+awscli
+
+# Image Processing (no TF)
+opencv-python
+Pillow
+albumentations
+
+# Monitoring
+loguru
+prometheus_client
+
+# Notebook
+notebook
+ipykernel
+
+-e .
