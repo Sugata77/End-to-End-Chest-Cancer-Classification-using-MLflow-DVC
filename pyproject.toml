@@ -1,0 +1,7 @@
+[project]
+name = "end-to-end-chest-cancer-classification-using-mlflow-dvc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
